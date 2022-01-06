@@ -1,0 +1,23 @@
+{
+  "name": "mega_sena_results",
+  "version": "1.0.0",
+  "description": "Aula conceito de extração de dados da mega-sena",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/mega_sena_results.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/mega_sena_results/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/mega_sena_results#readme",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
